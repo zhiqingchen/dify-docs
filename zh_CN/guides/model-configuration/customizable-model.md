@@ -25,7 +25,7 @@
 * `tts` 文字转语音
 * `moderation` 审查
 
-`Xinference`支持`LLM`和`Text Embedding`和Rerank，那么我们开始编写`xinference.yaml`。
+`Xinference`支持`LLM`和`Text Embedding`和`Rerank`，那么我们开始编写`xinference.yaml`。
 
 ```yaml
 provider: xinference #确定供应商标识
